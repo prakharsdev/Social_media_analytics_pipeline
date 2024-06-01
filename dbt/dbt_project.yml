@@ -1,0 +1,8 @@
+name: 'twitter_analysis'
+version: '1.0'
+config-version: 2
+
+profile: 'snowflake_profile'
+target-path: 'target'
+clean-targets:
+  - 'target'

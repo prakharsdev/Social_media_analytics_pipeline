@@ -1,0 +1,12 @@
+snowflake_profile:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: <your_snowflake_account>
+      user: <your_snowflake_user>
+      password: <your_snowflake_password>
+      role: <your_snowflake_role>
+      database: <your_snowflake_database>
+      warehouse: <your_snowflake_warehouse>
+      schema: <your_snowflake_schema>
